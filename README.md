@@ -18,7 +18,7 @@ Application web pour gérer un établissement universitaire.
 2. Copier le dossier dans `htdocs`
 3. Démarrer Apache et MySQL
 4. Importer la base de données
-5. Aller sur `http://localhost/projet-d-cole/login.php`
+5. Aller sur `http://localhost/projet-d'ecole/login.php`
 
 ## Auteur
 Développé par ESSAADANI MARWA
